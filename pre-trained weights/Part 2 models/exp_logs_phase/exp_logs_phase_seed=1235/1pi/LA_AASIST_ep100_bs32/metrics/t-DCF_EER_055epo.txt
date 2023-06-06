@@ -1,0 +1,21 @@
+
+CM SYSTEM
+	EER		= 3.439495142 % (Equal error rate for countermeasure)
+
+TANDEM
+	min-tDCF		= 0.090279018
+
+BREAKDOWN CM SYSTEM
+	EER A07		= 0.570420339 % (Equal error rate for A07
+	EER A08		= 0.512702923 % (Equal error rate for A08
+	EER A09		= 0.081488620 % (Equal error rate for A09
+	EER A10		= 0.716424472 % (Equal error rate for A10
+	EER A11		= 0.505904826 % (Equal error rate for A11
+	EER A12		= 0.594191543 % (Equal error rate for A12
+	EER A13		= 0.302183276 % (Equal error rate for A13
+	EER A14		= 0.668882066 % (Equal error rate for A14
+	EER A15		= 0.570420339 % (Equal error rate for A15
+	EER A16		= 1.018607749 % (Equal error rate for A16
+	EER A17		= 5.476710640 % (Equal error rate for A17
+	EER A18		= 12.087463862 % (Equal error rate for A18
+	EER A19		= 1.891211364 % (Equal error rate for A19

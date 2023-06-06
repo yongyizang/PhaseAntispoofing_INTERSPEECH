@@ -1,0 +1,10 @@
+=====
+epoch017, best eer, 3.3726%best tdcf, 0.0799
+epoch039, best eer, 2.1333%best tdcf, 0.0553
+epoch046, 
+epoch048, 
+epoch058, 
+epoch068, 
+epoch070, 
+=====
+EER: 2.216, min t-DCF: 0.05747
